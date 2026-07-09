@@ -11,7 +11,7 @@ Machine Learning Engineer & Research Intern at the University of Sheffield, curr
 
 🛠️ Tech & Tools
 
-Python · PyTorch · LangChain · LangGraph · FAISS · FastAPI . Streamlit · SQL · Whisper · Scikit-learn · Tableau
+Python · PyTorch · OpenCV . LangChain · LangGraph · FAISS · FastAPI . Streamlit · SQL · Whisper · Scikit-learn · Tableau
 
 📩 [Email]-sabafirdaus.cs@gmail.com
 📫 Connect
