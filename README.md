@@ -6,11 +6,16 @@ Machine Learning Engineer & Research Intern at the University of Sheffield, curr
 
 - 📍 Based in the UK — full right to work until Nov 2028, no sponsorship required
 - 💬 Ask me about speech processing, computer vision, or building end-to-end ML pipelines
-- 📩 Open to research collaborations, internships, and applied AI projects.
-Portfolio](https://saba-firdaus-ansaria-uk.lovable.app/)
+- Open to research collaborations, internships, and applied AI projects
+-  📩 [Email]-sabafirdaus.cs@gmail.com
+
 
 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabafirdausansaria-uk/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saba-firdaus-ansaria-uk.lovable.app/)
-[Email]-sabafirdaus.cs@gmail.com
+
+
+🛠️ Tech & Tools
+
+Python · PyTorch · LangChain · LangGraph · FAISS · Streamlit · SQL · Whisper · Scikit-learn · Tableau
 
