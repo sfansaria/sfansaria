@@ -10,5 +10,5 @@ Machine Learning Engineer & Research Intern at the University of Sheffield, work
 - 💬 Ask me about speech processing, computer vision, or building end-to-end ML pipelines
 - 📩 Open to research collaborations, internships, and applied AI projects.
 - [Portfolio](https://saba-firdaus-ansaria-uk.lovable.app/)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sabafirdausansaria-uk/) or [Email](sabafirdaus.cs@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sabafirdausansaria-uk/) or [Email]-sabafirdaus.cs@gmail.com
 
