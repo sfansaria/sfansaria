@@ -31,7 +31,7 @@ My experience spans healthcare, speech AI, and industrial computer vision: I've 
 
 ## 📂 Featured Projects
 
-🔹 **[Trending R&D](https://github.com/sfansaria/Trending_RnD)** — [Live Demo](https://trending-rnd.vercel.app)
+🔹 **[Trending R&D](https://github.com/sfansaria/Trending_RnD)** — [Live Demo](https://trending-r-n-15ccgpe25-saba-ansaria.vercel.app/)
 A full-stack web app for discovering and tracking trending ML research. Fetches papers from arXiv, scores them by trendiness, clusters them into topics automatically, and lets you browse, search, sort, save, and cite — all in one place.
 **Tech:** Next.js, React, TypeScript, Tailwind · FastAPI, Python · PostgreSQL/SQLite, SQLModel · scikit-learn (TF-IDF + KMeans) · arXiv & Semantic Scholar APIs · Vercel, Render, Supabase
 **Highlights:** Custom trend-scoring pipeline (citation velocity, recency, keyword signals) and automatic topic clustering; full REST API, persistent storage, and a deployed frontend + backend + database on free-tier cloud.
@@ -58,9 +58,9 @@ Real-time fault-detection system for a chemical production pipeline, taken from 
 
 ## 📈 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sfansaria&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=sfansaria&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sfansaria&layout=compact)
+
 
 ## 📫 Connect With Me
 
