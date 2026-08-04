@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Saba!
 
 🎓 MSc Robotics (First Class, Distinction) @ University of Sheffield | MSc Applied Mathematics @ University of Burdwan
+
 📍 Surrey, United Kingdom
+
 🤖 Machine Learning Engineer | LLMs & RAG | Speech AI | Computer Vision
 
 ## 🚀 About Me
