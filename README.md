@@ -36,7 +36,7 @@ A full-stack web app for discovering and tracking trending ML research. Fetches 
 **Tech:** Next.js, React, TypeScript, Tailwind · FastAPI, Python · PostgreSQL/SQLite, SQLModel · scikit-learn (TF-IDF + KMeans) · arXiv & Semantic Scholar APIs · Vercel, Render, Supabase
 **Highlights:** Custom trend-scoring pipeline (citation velocity, recency, keyword signals) and automatic topic clustering; full REST API, persistent storage, and a deployed frontend + backend + database on free-tier cloud.
 
-🔹 **[Aunt Flo Assistant — Hybrid RAG On-Device Chatbot](https://github.com/sfansaria/Aunt-Flo-Assistant-RAG-llama2-ondevice)**
+🔹 **[Aunt Flo Assistant — Hybrid RAG On-Device Chatbot](https://github.com/sfansaria/Aunt-Flo-Assistant-RAG-llama2-ondevice)** - [Live Demo](https://aunt-flo-frontend.fly.dev/)
 A private, on-device conversational AI for women's health education, running on CPU-only hardware.
 **Tech:** Python, Quantised LLaMA 2, LangChain, Qdrant + BM25 + reranking, FastAPI, Docker, Render
 **Highlights:** Modernised a legacy LLaMA-2/FAISS chatbot into a hybrid-retrieval RAG system, containerised and deployed publicly. Sub-5-second response times with no cloud dependency.
