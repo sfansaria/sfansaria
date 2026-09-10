@@ -33,10 +33,10 @@ My experience spans healthcare, speech AI, and industrial computer vision: I've 
 
 ## 📂 Featured Projects
 
-🔹 **[Trending R&D](https://github.com/sfansaria/Trending_RnD)** — [Live Demo](https://trending-r-n-15ccgpe25-saba-ansaria.vercel.app/)
+🔹 **[Trending R&D](https://github.com/sfansaria/Trending_RnD)** — 
 A full-stack web app for discovering and tracking trending ML research. Fetches papers from arXiv, scores them by trendiness, clusters them into topics automatically, and lets you browse, search, sort, save, and cite — all in one place.
-**Tech:** Next.js, React, TypeScript, Tailwind · FastAPI, Python · PostgreSQL/SQLite, SQLModel · scikit-learn (TF-IDF + KMeans) · arXiv & Semantic Scholar APIs · Vercel, Render, Supabase
-**Highlights:** Custom trend-scoring pipeline (citation velocity, recency, keyword signals) and automatic topic clustering; full REST API, persistent storage, and a deployed frontend + backend + database on free-tier cloud.
+**Tech:** Next.js, React, TypeScript, Tailwind · FastAPI, Python · PostgreSQL/SQLite, SQLModel · scikit-learn (TF-IDF + KMeans) · arXiv & Semantic Scholar APIs · Docker Compose (self-hosted)
+**Highlights:** Custom trend-scoring pipeline (citation velocity, recency, keyword signals) and automatic topic clustering; full REST API, persistent storage, and a fully self-hosted deployment -> frontend, backend, and PostgreSQL all running as Docker conatiners with no third party hosting dependency
 
 🔹 **[Aunt Flo Assistant — Hybrid RAG On-Device Chatbot](https://github.com/sfansaria/Aunt-Flo-Assistant-RAG-llama2-ondevice)** - [Live Demo](https://aunt-flo-frontend.fly.dev/)
 A private, on-device conversational AI for women's health education, running on CPU-only hardware.
