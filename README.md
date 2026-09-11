@@ -15,7 +15,7 @@ My experience spans healthcare, speech AI, and industrial computer vision: I've 
 ## 🔍 Currently working on:
 
 - Researching Automatic Speech Recognition (ASR) & speaker diarisation @ University of Sheffield
-- Building **Trending R&D** — a full-stack app that surfaces and clusters trending ML research papers from arXiv ([live demo](https://trending-r-n-15ccgpe25-saba-ansaria.vercel.app/))
+- Building **Trending R&D** — a full-stack app that surfaces and clusters trending ML research papers from arXiv
 - Modernising an on-device RAG assistant with hybrid retrieval (Qdrant + BM25 + reranking), FastAPI & Docker
 
 ## 🛠️ Tech Stack
