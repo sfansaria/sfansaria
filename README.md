@@ -22,11 +22,11 @@ My experience spans healthcare, speech AI, and industrial computer vision: I've 
 
 | Domain | Tools & Frameworks |
 |--------|--------------------|
-| **Languages** | Python · SQL · TypeScript · Bash . MATLAB|
+| **Languages** | Python · SQL · Bash|
 | **ML & AI** | PyTorch · TensorFlow · Scikit-learn · Hugging Face · LangChain |
 | **Gen AI / LLMs** | RAG · FAISS · Qdrant · BM25 · Reranking · Quantised LLaMA 2 |
 | **Web & Backend** | FastAPI · Next.js · React · Tailwind · SQLModel |
-| **Deployment** | Docker · Vercel · Render · Supabase · MinIO · Streamlit |
+| **Deployment** | Docker · MinIO · Streamlit |
 | **Databases** | PostgreSQL · SQLite |
 | **Data Viz** | Tableau |
 | **Tools** | Git · Linux · Jupyter |
