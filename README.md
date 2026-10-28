@@ -60,10 +60,6 @@ Real-time fault-detection system for a chemical production pipeline, taken from 
 **Tech:** Python, OpenCV, Raspberry Pi, IoT sensors
 **Impact:** Reduced manual inspection time by 20% | improved fault-detection accuracy by 30%
 
-🔹 **[Trending R&D](https://github.com/sfansaria/Trending_RnD)**  
-A full-stack web app for discovering and tracking trending ML research. Fetches papers from arXiv, scores them by trendiness, clusters them into topics automatically, and lets you browse, search, sort, save, and cite — all in one place.
-**Tech:** Next.js, React, TypeScript, Tailwind · FastAPI, Python · PostgreSQL/SQLite, SQLModel · scikit-learn (TF-IDF + KMeans) · arXiv & Semantic Scholar APIs · Docker Compose (self-hosted)
-**Highlights:** Custom trend-scoring pipeline (citation velocity, recency, keyword signals) and automatic topic clustering; full REST API, persistent storage, and a fully self-hosted deployment -> frontend, backend, and PostgreSQL all running as Docker conatiners with no third party hosting dependency
 ## 📈 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sfansaria&theme=tokyonight)
