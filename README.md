@@ -23,15 +23,22 @@ My experience spans healthcare, speech AI, and industrial computer vision: I've 
 | Domain | Tools & Frameworks |
 |--------|--------------------|
 | **Languages** | Python · SQL · Bash|
-| **ML & AI** | PyTorch · TensorFlow · Scikit-learn · Hugging Face · LangChain |
-| **Gen AI / LLMs** | RAG · FAISS · Qdrant · BM25 · Reranking · Quantised LLaMA 2 |
+| **ML & AI** | PyTorch · TensorFlow · Scikit-learn · Hugging Face · LangChain · CNNs · RNNs · Model Evaluation · Statistics |
+| **Gen AI / LLMs** | RAG · FAISS · LLaMA 2 |
 | **Web & Backend** | FastAPI · Next.js · React · Tailwind · SQLModel |
-| **Deployment** | Docker · MinIO · Streamlit |
-| **Databases** | PostgreSQL · SQLite |
+| **Deployment** | FastAPI · Docker · Streamlit · Linux|
 | **Data Viz** | Tableau |
-| **Tools** | Git · Linux · Jupyter |
+| **Tools** | Git · CI/CD · Linux · Jupyter |
 
+\textbf{ML/DL:} PyTorch, TensorFlow, scikit-learn, CNNs, RNNs, Model Evaluation, Statistics\\
+\textbf{AI:} NLP, ASR, Speaker Diarisation, Computer Vision, LLMs, RAG, LangChain, FAISS\\
+\textbf{Deployment \& Tools:} FastAPI, Streamlit, Docker, Linux, Git, CI/CD, Codabench
 ## 📂 Featured Projects
+
+🔹 **[Trending R&D](https://github.com/sfansaria/Trending_RnD)**  
+A full-stack web app for discovering and tracking trending ML research. Fetches papers from arXiv, scores them by trendiness, clusters them into topics automatically, and lets you browse, search, sort, save, and cite — all in one place.
+**Tech:** Next.js, React, TypeScript, Tailwind · FastAPI, Python · PostgreSQL/SQLite, SQLModel · scikit-learn (TF-IDF + KMeans) · arXiv & Semantic Scholar APIs · Docker Compose (self-hosted)
+**Highlights:** Custom trend-scoring pipeline (citation velocity, recency, keyword signals) and automatic topic clustering; full REST API, persistent storage, and a fully self-hosted deployment -> frontend, backend, and PostgreSQL all running as Docker conatiners with no third party hosting dependency
 
 🔹 **[Aunt Flo Assistant — Hybrid RAG On-Device Chatbot](https://github.com/sfansaria/Aunt-Flo-Assistant-RAG-llama2-ondevice)** 
 A private, on-device conversational AI for women's health education, running on CPU-only hardware.
