@@ -22,42 +22,40 @@ My experience spans healthcare, speech AI, and industrial computer vision: I've 
 
 | Domain | Tools & Frameworks |
 |--------|--------------------|
-| **Languages** | Python · SQL · Bash|
+| **Languages** | Python · SQL · Bash |
 | **ML & AI** | PyTorch · TensorFlow · Scikit-learn · Hugging Face · LangChain · CNNs · RNNs · Model Evaluation · Statistics |
 | **Gen AI / LLMs** | RAG · FAISS · LLaMA 2 |
 | **Web & Backend** | FastAPI · Next.js · React · Tailwind · SQLModel |
-| **Deployment** | FastAPI · Docker · Streamlit · Linux|
+| **Deployment** | Docker · Streamlit · Linux |
 | **Data Viz** | Tableau |
-| **Tools** | Git · CI/CD · Linux · Jupyter |
+| **Tools** | Git · CI/CD · Linux · Jupyter · Codabench |
 
-\textbf{ML/DL:} PyTorch, TensorFlow, scikit-learn, CNNs, RNNs, Model Evaluation, Statistics\\
-\textbf{AI:} NLP, ASR, Speaker Diarisation, Computer Vision, LLMs, RAG, LangChain, FAISS\\
-\textbf{Deployment \& Tools:} FastAPI, Streamlit, Docker, Linux, Git, CI/CD, Codabench
+
 ## 📂 Featured Projects
 
 🔹 **[Trending R&D](https://github.com/sfansaria/Trending_RnD)**  
-A full-stack web app for discovering and tracking trending ML research. Fetches papers from arXiv, scores them by trendiness, clusters them into topics automatically, and lets you browse, search, sort, save, and cite — all in one place.
-**Tech:** Next.js, React, TypeScript, Tailwind · FastAPI, Python · PostgreSQL/SQLite, SQLModel · scikit-learn (TF-IDF + KMeans) · arXiv & Semantic Scholar APIs · Docker Compose (self-hosted)
-**Highlights:** Custom trend-scoring pipeline (citation velocity, recency, keyword signals) and automatic topic clustering; full REST API, persistent storage, and a fully self-hosted deployment -> frontend, backend, and PostgreSQL all running as Docker conatiners with no third party hosting dependency
+A full-stack web app for discovering and tracking trending ML research. Fetches papers from arXiv, scores them by trendiness, clusters them into topics automatically, and lets you browse, search, sort, save, and cite — all in one place.  
+**Tech:** Next.js · React · TypeScript · Tailwind · FastAPI · Python · SQLite/PostgreSQL · SQLModel · scikit-learn (TF-IDF + KMeans) · arXiv & Semantic Scholar APIs  
+**Highlights:** Custom trend-scoring pipeline (citation velocity, recency, keyword signals) and automatic topic clustering; full REST API with nightly auto-fetch via APScheduler; runs entirely on your own machine with zero cloud dependencies — no subscriptions, no third-party hosting.
 
-🔹 **[Aunt Flo Assistant — Hybrid RAG On-Device Chatbot](https://github.com/sfansaria/Aunt-Flo-Assistant-RAG-llama2-ondevice)** 
-A private, on-device conversational AI for women's health education, running on CPU-only hardware.
-**Tech:** Python, Quantised LLaMA 2, LangChain, Qdrant + BM25 + reranking, FastAPI, Docker, Render
-**Highlights:** Modernised a legacy LLaMA-2/FAISS chatbot into a hybrid-retrieval RAG system, containerised and deployed publicly. Sub-5-second response times with no cloud dependency.
+🔹 **[Aunt Flo Assistant — On-Device RAG Chatbot](https://github.com/sfansaria/Aunt-Flo-Assistant-RAG-llama2-ondevice)**  
+A private, on-device conversational AI for women's health education, running on CPU-only hardware.  
+**Tech:** Python · Quantised LLaMA 2 · LangChain · FAISS · Streamlit  
+**Highlights:** Sub-5-second response times with no API calls and no cloud dependency — fully local.
 
-🔹 **[Multisensory Fusion & Low-Latency Sleep Apnoea Detection](https://github.com/sfansaria/Low-Latency-Multisensory-Sleep-Apnea-Detection)**
-MSc thesis — real-time paediatric sleep apnoea detection on multisensory NHS clinical data.
-**Tech:** Python, PyTorch, CNNs, SVM, Logistic Regression
+🔹 **[Multisensory Fusion & Low-Latency Sleep Apnoea Detection](https://github.com/sfansaria/Low-Latency-Multisensory-Sleep-Apnea-Detection)**  
+MSc thesis — real-time paediatric sleep apnoea detection on multisensory NHS clinical data.  
+**Tech:** Python · PyTorch · CNNs · SVM · Logistic Regression  
 **Results:** 98.1% accuracy at 9.46 ms CPU latency | multichannel CNN fusion model, deployable on low-power wearables
 
-🔹 **[Automatic Speech Recognition (ASR)](https://github.com/uos-Robotics-minitasks/Deep-Learning-Assignment-Automated-Speech-Recognition-System-for-Spoken-digits)**
-CNN architectures for audio-based speech recognition of spoken digits.
-**Tech:** Python, TensorFlow, spectrograms, filterbanks, MFCCs
+🔹 **[Automatic Speech Recognition (ASR)](https://github.com/uos-Robotics-minitasks/Deep-Learning-Assignment-Automated-Speech-Recognition-System-for-Spoken-digits)**  
+CNN architectures for audio-based speech recognition of spoken digits.  
+**Tech:** Python · TensorFlow · spectrograms · filterbanks · MFCCs  
 **Results:** Improved accuracy 69.68% → 74.64% across baseline, regularised and residual variants, with full confusion-matrix evaluation
 
-🔹 **Industrial Vision System (Commercialised)**
-Real-time fault-detection system for a chemical production pipeline, taken from R&D to full production.
-**Tech:** Python, OpenCV, Raspberry Pi, IoT sensors
+🔹 **Industrial Vision System (Commercialised)**  
+Real-time fault-detection system for a chemical production pipeline, taken from R&D to full production.  
+**Tech:** Python · OpenCV · Raspberry Pi · IoT sensors  
 **Impact:** Reduced manual inspection time by 20% | improved fault-detection accuracy by 30%
 
 ## 📈 GitHub Activity
@@ -68,9 +66,6 @@ Real-time fault-detection system for a chemical production pipeline, taken from 
 
 ## 📫 Connect With Me
 
-📧 **Email:** sabafirdaus.cs@gmail.com
-🔗 **LinkedIn:** [linkedin.com/in/sabafirdausansaria-uk](https://www.linkedin.com/in/sabafirdausansaria-uk/)
+📧 **Email:** sabafirdaus.cs@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/sabafirdausansaria-uk](https://www.linkedin.com/in/sabafirdausansaria-uk/)  
 🌐 **Portfolio:** [saba-firdaus-ansaria-uk.lovable.app](https://saba-firdaus-ansaria-uk.lovable.app/)
-
-
-
