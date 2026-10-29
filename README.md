@@ -38,10 +38,15 @@ A full-stack web app for discovering and tracking trending ML research. Fetches 
 **Tech:** Next.js · React · TypeScript · Tailwind · FastAPI · Python · SQLite/PostgreSQL · SQLModel · scikit-learn (TF-IDF + KMeans) · arXiv & Semantic Scholar APIs  
 **Highlights:** Custom trend-scoring pipeline (citation velocity, recency, keyword signals) and automatic topic clustering; full REST API with nightly auto-fetch via APScheduler; runs entirely on your own machine with zero cloud dependencies — no subscriptions, no third-party hosting.
 
-🔹 **[Aunt Flo Assistant — On-Device RAG Chatbot](https://github.com/sfansaria/Aunt-Flo-Assistant-RAG-llama2-ondevice)**  
-A private, on-device conversational AI for women's health education, running on CPU-only hardware.  
-**Tech:** Python · Quantised LLaMA 2 · LangChain · FAISS · Streamlit  
-**Highlights:** Sub-5-second response times with no API calls and no cloud dependency — fully local.
+🔹 **Industrial Vision System (Commercialised)**  
+Real-time fault-detection system for a chemical production pipeline, taken from R&D to full production.  
+**Tech:** Python · OpenCV · Raspberry Pi · IoT sensors  
+**Impact:** Reduced manual inspection time by 20% | improved fault-detection accuracy by 30%
+
+🔹 **[Aunt Flo Assistant — Local Hybrid-RAG Chatbot](https://github.com/sfansaria/Aunt-Flo-Assistant-Hybrid-RAG-ondevice)**  
+A private, on-device women's health assistant with cited answers from source PDFs.  
+**Tech:** Python · Ollama · Qdrant + BM25 hybrid search · FastAPI · Streamlit · Docker  
+**Highlights:** Hybrid retrieval with citations, streaming answers in about 1–4 seconds on a laptop, with no API calls and no cloud dependency.
 
 🔹 **[Multisensory Fusion & Low-Latency Sleep Apnoea Detection](https://github.com/sfansaria/Low-Latency-Multisensory-Sleep-Apnea-Detection)**  
 MSc thesis — real-time paediatric sleep apnoea detection on multisensory NHS clinical data.  
@@ -53,10 +58,6 @@ CNN architectures for audio-based speech recognition of spoken digits.
 **Tech:** Python · TensorFlow · spectrograms · filterbanks · MFCCs  
 **Results:** Improved accuracy 69.68% → 74.64% across baseline, regularised and residual variants, with full confusion-matrix evaluation
 
-🔹 **Industrial Vision System (Commercialised)**  
-Real-time fault-detection system for a chemical production pipeline, taken from R&D to full production.  
-**Tech:** Python · OpenCV · Raspberry Pi · IoT sensors  
-**Impact:** Reduced manual inspection time by 20% | improved fault-detection accuracy by 30%
 
 ## 📈 GitHub Activity
 
