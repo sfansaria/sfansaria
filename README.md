@@ -8,27 +8,25 @@
 
 ## 🚀 About Me
 
-I'm a machine learning engineer with a strong mathematical core — an MSc in Applied Mathematics and an MSc in Robotics (Distinction) — and six years of teaching mathematics before I moved into ML. I build machine learning systems that make it from prototype to production, not just to a notebook.
+I'm a machine learning engineer with a strong mathematical core, an MSc in Applied Mathematics and an MSc in Robotics (Distinction)  and more than six years of teaching mathematics before I moved into ML. I build machine learning systems that make it from prototype to production.
 
-My experience spans healthcare, speech AI, and industrial computer vision: I've taken a fault-detection model into live commercial deployment, built a paediatric sleep apnoea detector on NHS clinical data, and shipped production-style RAG and full-stack applications. I care about the whole lifecycle — from clean data pipelines to deployed, monitored services.
+My experience spans healthcare, speech AI, and industrial computer vision: I have taken a fault-detection model into live commercial deployment, built a paediatric sleep apnoea detector on NHS clinical data, and shipped production-style RAG and full-stack applications. I care about the whole lifecycle starting from clean data pipelines to deployed, monitored services.
 
 ## 🔍 Currently working on:
 
 - Researching Automatic Speech Recognition (ASR) & speaker diarisation @ University of Sheffield
-- Building **Trending R&D** — a full-stack app that surfaces and clusters trending ML research papers from arXiv
-- Modernising an on-device RAG assistant with hybrid retrieval (Qdrant + BM25 + reranking), FastAPI & Docker
 
 ## 🛠️ Tech Stack
 
 | Domain | Tools & Frameworks |
 |--------|--------------------|
 | **Languages** | Python · SQL · Bash |
-| **ML & AI** | PyTorch · TensorFlow · Scikit-learn · Hugging Face · LangChain · CNNs · RNNs · Model Evaluation · Statistics |
+| **ML & AI** | PyTorch · TensorFlow · Scikit-learn · Hugging Face · LangChain · Supervised/Unsupervised learning · Clustering ·  Neural networks CNNs · RNNs · Model Evaluation · Statistics |
 | **Gen AI / LLMs** | RAG · FAISS · LLaMA 2 |
 | **Web & Backend** | FastAPI · Next.js · React · Tailwind · SQLModel |
 | **Deployment** | Docker · Streamlit · Linux |
 | **Data Viz** | Tableau |
-| **Tools** | Git · CI/CD · Linux · Jupyter · Codabench |
+| **Tools** | Git · CI/CD · Linux · Jupyter · Codabench ·  Virtual machines · Raspberry Pi · Arduino · Sensors|
 
 
 ## 📂 Featured Projects
